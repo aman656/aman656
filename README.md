@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aman656
 
-- 👀 I’m interested in
-MERN Stack development...
+- 👀 I’m a mern stack developer.
 - 🌱 I’m currently learning BSSE from UBIT.
 - Have done hybrid web and mobile app development course from saylani mass IT training program. 
 - 💞️ I’m looking to collaborate on ...
