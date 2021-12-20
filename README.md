@@ -2,7 +2,7 @@
 
 - 👀 I’m a mern stack developer.
 - 🌱 I’m currently learning BSSE from UBIT.
-- Have done hybrid web and mobile app development course from saylani mass IT training program. 
+- Have studied hybrid web and mobile app development from saylani mass IT training program. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - Contact me at amansiddiquias123@gmail.com...
