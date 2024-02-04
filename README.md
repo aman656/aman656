@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aman656
 
-- 👀 I’m a mern stack developer.
-- 🌱 I’m currently learning BSSE from UBIT.
+- 👀 I’m a full stack developer.
+- 🌱 I have done BSSE from UBIT.
 - Have studied hybrid web and mobile app development from saylani mass IT training program. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
